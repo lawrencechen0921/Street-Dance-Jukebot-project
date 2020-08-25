@@ -15,3 +15,4 @@ The included .env file contains placeholder keys which you will need to provide.
 
 
 When the application launches, follow the link in the console window to authenticate with Spotify
+# Street-Dance-Jukebot-project
