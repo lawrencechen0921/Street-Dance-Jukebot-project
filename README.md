@@ -4,7 +4,7 @@
 
 # .env variables
 
-The included .env file contains placeholder keys which you will need to provide. For more information about what these mean and how to obtain them, please see my blog at [https://medium.com/linedevth/jukebox-chatbot-line-spotify-e410a84b50d8](https://medium.com/linedevth/jukebox-chatbot-line-spotify-e410a84b50d8)
+The included .env file contains placeholder keys which you will need to provide. For more information about what these mean and how to obtain them, please see my blog at
 
 # Installation
 
